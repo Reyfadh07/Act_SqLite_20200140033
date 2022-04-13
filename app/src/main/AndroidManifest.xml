@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Act_SqLite_20200140033">
         <activity
+            android:name=".edit_teman"
+            android:exported="true" />
+        <activity
             android:name=".TemanBaru"
             android:exported="false" />
         <activity
